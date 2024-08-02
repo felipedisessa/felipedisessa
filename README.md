@@ -5,7 +5,10 @@ Eu sou Felipe, um desenvolvedor apaixonado por tecnologia e música!
 ## Sobre mim
 
 - 🌱 Atualmente estou aprendendo desenvolvimento Web
+- 💻 Atualmente estou usando no dia a dia: **JavaScript, PHP, Laravel, HTML, CSS, Tailwind**
 - 👯 Estou procurando colaborar em projetos open-source
-- 📫 E-mail: felipetimds@gmail.com 
+- 📫 E-mail: [felipetimds@gmail.com](mailto:felipetimds@gmail.com)
 
-- Linkedin: https://www.linkedin.com/in/felipetilellimarquesdisessa/
+## Conecte-se comigo
+
+- [LinkedIn](https://www.linkedin.com/in/felipetilellimarquesdisessa/)
