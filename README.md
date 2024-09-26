@@ -8,6 +8,7 @@ Eu sou Felipe, um desenvolvedor apaixonado por tecnologia e música!
 - 💻 Atualmente estou usando no dia a dia: **JavaScript, PHP, Laravel, HTML, CSS, Tailwind, SQL**
 - 👯 Estou procurando colaborar em projetos open-source
 - 📫 E-mail: [felipetimds@gmail.com](mailto:felipetimds@gmail.com)
+- https://felipedisessa.github.io/
 
 ## Conecte-se comigo
 
