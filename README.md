@@ -1,11 +1,11 @@
 # Olá! 👋
 
-Eu sou Felipe, um desenvolvedor apaixonado por tecnologia e música! 
+Sou Felipe, desenvolvedor apaixonado por tecnologia e formado em Sistemas de Informação.
 
 ## Sobre mim
 
-- 🌱 Atualmente estou aprendendo desenvolvimento de aplicações Web
-- 💻 Atualmente estou usando no dia a dia: **JavaScript, PHP, Laravel, HTML, CSS, Tailwind, SQL**
+- 🌱 Sempre em busca de aprimorar minhas habilidades, atualmente estou focado em desenvolvimento Web
+- 💻 Tecnologias que utilizo no dia a dia: **JavaScript, Python, Laravel, HTML, CSS, Tailwind, SQL**
 - 👯 Estou procurando colaborar em projetos open-source
 - 📫 E-mail: [felipetimds@gmail.com](mailto:felipetimds@gmail.com)
 - https://felipedisessa.github.io/
